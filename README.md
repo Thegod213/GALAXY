@@ -23,5 +23,6 @@
   + Prefix
   + Config(proximamente)
 + Diversion 
-  + nada XD
+  + Meme
+  + 
   
